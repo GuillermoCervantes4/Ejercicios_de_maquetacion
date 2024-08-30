@@ -219,7 +219,16 @@ body{
     font-size: 12px;
 }
 
-.ejercicio4 .card4 .bloque strong p{
+.ejercicio4 .card4 .bloque .bloque1 strong{
     font-size: 12px;
     display: inline;
+}
+
+.ejercicio4 .card4 .bloque .bloque2 strong{
+    font-size: 12px;
+    display: inline;
+}
+
+.ejercicio4 .card4 .bloque p{
+    
 }
